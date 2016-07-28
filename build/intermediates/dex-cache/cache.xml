@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\seekbar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa889c424390984cb1b8500aed19484ca584afab">
+        <dex dex="F:\seekbar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5728b02920412494104a2b7e83374d6f88c64887\classes.dex" />
+    </item>
+    <item
+        jar="D:\sdk-for-studio\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\seekbar\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_267a607445a8f32dd8fc99e949c8540706fff04c\classes.dex" />
+    </item>
+    <item
+        jar="F:\seekbar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="52243fe0b603a6d36888117b7eadad90ce22fb3c">
+        <dex dex="F:\seekbar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c0a331a8679ee3211a2e163242e7a5e81d21451\classes.dex" />
+    </item>
+
+</items>

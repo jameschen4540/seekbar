@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\seekbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "F:\\seekbar\\app\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "F:\\seekbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_holo_light.xml",
+        "source": "F:\\seekbar\\app\\src\\main\\res\\drawable\\progress_holo_light.xml"
+    },
+    {
+        "merged": "F:\\seekbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_setting_bright_progressbar.xml",
+        "source": "F:\\seekbar\\app\\src\\main\\res\\drawable\\player_setting_bright_progressbar.xml"
+    },
+    {
+        "merged": "F:\\seekbar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "F:\\seekbar\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    }
+]
